@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Authors on Mihir Shinde</title>
+    <link>https://mihir1493.github.io/myportfolio/authors/</link>
+    <description>Recent content in Authors on Mihir Shinde</description>
+    <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 07 Apr 2019 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="https://mihir1493.github.io/myportfolio/authors/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>https://mihir1493.github.io/myportfolio/authors/admin/</link>
+      <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://mihir1493.github.io/myportfolio/authors/admin/</guid>
+      <description>&lt;p&gt;About: Mechanical Engineer turned Data Analyst with a genuine curiosity to create compelling stories using data. Having witnessed the vast potential of turning insights into tangible solutions using tools such as Machine Learning and Deep Learning, I am excited to develop and contribute to the world of data science.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Robert Ford</title>
+      <link>https://mihir1493.github.io/myportfolio/authors/robert-ford/</link>
+      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://mihir1493.github.io/myportfolio/authors/robert-ford/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
